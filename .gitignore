@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Log files
+*.log
+
+# Output files
+rewind_log.txt
